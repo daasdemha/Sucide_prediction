@@ -1,0 +1,1001 @@
+Timestamp,Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
+11/28/2020 19:26:41,4th year,Normal,50,Male,23,Home,In a relationship,No,2,Normal,No,No,No,Friends,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:21:35,4th year,Very good,80,Male,23,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/22/2020 19:24:22,4th year,Good,70,Male,23,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Friends,Yes,Maybe,Yes,No,Yes,7
+12/22/2020 19:27:13,4th year,Normal,60,Male,23,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Not applicable,Neutral,No,No,8
+12/22/2020 19:37:09,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Good,Not applicable,No,No,Not applicable,Yes,Maybe,Yes,No,No,8
+12/22/2020 20:13:51,4th year,Normal,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,Yes,No,6
+12/22/2020 20:15:46,4th year,Good,67,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,Not applicable,Not applicable,Yes,Not applicable,Neutral,Yes,No,6.5
+12/22/2020 20:17:32,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,Not applicable,Yes,Maybe,Yes,No,Yes,8
+12/22/2020 20:20:04,4th year,Normal,45,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Family,Yes,Yes,Yes,No,No,7
+12/22/2020 20:21:31,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,No one,Yes,Maybe,No,No,No,6.5
+12/22/2020 20:22:44,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/22/2020 20:24:33,4th year,Normal,60,Male,22.75,Home,In a relationship,No,2,Normal,No,No,Not applicable,No one,Not applicable,No,Neutral,No,Yes,7
+12/22/2020 20:26:48,4th year,Good,60,Male,22.75,Home,In a relationship,No,1,Good,No,No,Yes,No one,Yes,Yes,No,Yes,Yes,7
+12/22/2020 20:28:15,4th year,Normal,70,Male,22.75,Home,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,No,Yes,No,No,7.5
+12/22/2020 20:29:26,4th year,Normal,68,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Yes,No,No,7.5
+12/22/2020 20:30:47,4th year,Bad,30,Male,22.75,Home,In a relationship,No,1,Normal,Not applicable,No,Not applicable,No one,Yes,Maybe,Yes,No,No,8.5
+12/22/2020 20:33:35,4th year,Good,50,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Family,No,Maybe,Neutral,Yes,Yes,6
+12/22/2020 20:39:51,4th year,Normal,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,No,No one,Yes,No,Yes,Yes,Yes,7
+12/22/2020 20:42:25,4th year,Very good,85,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,Yes,No,8
+12/22/2020 20:49:01,4th year,Good,60,Male,22.75,Home,In a relationship,No,2,Normal,Not applicable,No,No,No one,Yes,No,Neutral,Yes,Yes,7.5
+12/22/2020 20:59:13,4th year,Good,75,Male,22.75,Home,In a relationship,No,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,Yes,No,7
+12/22/2020 21:21:34,4th year,Good,65,Male,22.75,Home,In a relationship,No,1,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,8.5
+12/22/2020 21:23:00,4th year,Very good,90,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Yes,No,Yes,7.5
+12/23/2020 19:31:41,4th year,Good,75,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Not applicable,Yes,Maybe,Neutral,No,No,6
+12/23/2020 19:39:52,4th year,Bad,45,Male,22.75,Home,In a relationship,No,2,Good,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,6.5
+12/23/2020 19:42:14,4th year,Normal,55,Male,22.75,Home,In a relationship,No,3,Normal,Yes,No,No,No one,Yes,No,Yes,No,No,7
+12/23/2020 19:59:00,4th year,Very good,85,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,No,No,7
+12/24/2020 12:51:44,4th year,Bad,40,Male,22.75,Home,In a relationship,No,2,Normal,No,No,No,No one,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:53:02,4th year,Bad,45,Male,22.75,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Neutral,No,No,6.5
+12/24/2020 12:54:04,4th year,Normal,55,Male,22.75,Home,In a relationship,No,1,Good,No,No,No,Not applicable,Yes,Yes,Neutral,No,No,6
+12/24/2020 12:55:39,4th year,Normal,55,Male,22.75,Home,In a relationship,No,2,Normal,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,6.5
+12/24/2020 12:57:29,4th year,Bad,35,Male,22.75,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 18:42:14,4th year,Very bad,15,Male,22.78,Home,In a relationship,No,1,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 18:47:37,1st year,Bad,25,Male,19,Hall-Mess,Single,No,1,Bad,Yes,Not applicable,Not applicable,Family,Yes,No,No,Yes,Yes,7
+12/26/2020 18:49:09,1st year,Normal,45,Male,19,Hall-Mess,Single,No,1,Bad,No,Not applicable,No,Family,Yes,No,No,No,No,6
+12/26/2020 18:50:37,1st year,Very bad,10,Male,19.5,Department,Single,No,1,Bad,Yes,No,No,No one,No,Maybe,No,No,Yes,6.5
+12/26/2020 18:51:56,1st year,Bad,25,Male,19.5,Department,Single,No,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,7
+12/26/2020 18:54:32,1st year,Normal,45,Male,19.5,Home,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 18:56:14,1st year,Very bad,1,Male,19.5,Home,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,No,Yes,No,4
+12/26/2020 18:57:33,1st year,Normal,35,Male,19.5,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 18:59:12,1st year,Very good,75,Male,19.75,Home,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 19:00:33,1st year,Bad,25,Male,19.75,Department,Single,No,1,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 19:01:38,1st year,Good,60,Male,19.75,Hall-Mess,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Yes,Yes,No,Yes,6.5
+12/26/2020 19:04:06,2nd year,Good,55,Male,20,Hall-Mess,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,No,7
+12/26/2020 19:05:26,2nd year,Bad,35,Male,20,Department,Single,Yes,1,Normal,No,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:07:18,2nd year,Normal,50,Male,20.25,tuition,Single,Yes,2,Good,Yes,No,No,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 19:08:40,2nd year,Normal,50,Male,20.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,Yes,No,6
+12/26/2020 19:10:22,2nd year,Bad,30,Male,20.5,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,No,Yes,6.5
+12/26/2020 19:11:49,2nd year,Normal,45,Male,20.5,tuition,Single,No,2,Normal,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:13:19,2nd year,Normal,50,Male,20.75,Department,Single,No,2,Normal,No,No,No,No one,Yes,Maybe,No,No,No,5
+12/26/2020 19:14:49,2nd year,Bad,30,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 19:16:25,2nd year,Very bad,10,Male,20.75,Hall-Mess,Single,No,1,Bad,Yes,No,No,No one,Yes,Yes,Neutral,Yes,No,3
+12/26/2020 19:17:51,2nd year,Bad,20,Male,20.75,tuition,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,No,Yes,5.5
+12/26/2020 19:19:07,2nd year,Good,55,Male,20.75,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,No,Maybe,No,No,No,6
+12/26/2020 19:20:17,2nd year,Bad,40,Male,20.75,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 19:21:37,1st year,Bad,35,Male,19.75,Playground,Single,No,1,Bad,Not applicable,No,No,No one,No,Yes,Neutral,No,Yes,6
+12/26/2020 19:23:09,1st year,Normal,45,Male,19.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Maybe,Neutral,No,No,5.5
+12/26/2020 19:24:37,2nd year,Very bad,1,Male,20.75,tuition,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,5
+12/26/2020 19:26:00,2nd year,Normal,55,Male,20.75,Hall-Mess,Single,Yes,1,Normal,No,No,No,No one,Yes,Yes,Yes,No,Yes,5.5
+12/26/2020 19:28:15,2nd year,Good,75,Male,20.75,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6.5
+12/26/2020 19:29:40,2nd year,Normal,55,Male,20.75,Home,Single,Yes,1,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,7.5
+12/26/2020 19:31:03,2nd year,Bad,35,Male,20.75,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,6
+12/26/2020 19:32:35,2nd year,Very bad,15,Male,20.75,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,Yes,No,4.5
+12/26/2020 19:35:40,3rd year,Normal,45,Male,21,Hall-Mess,Single,No,2,Good,No,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:41:58,3rd year,Normal,60,Male,21,Department,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:43:16,3rd year,Normal,50,Male,21,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,No,No,7
+12/26/2020 19:44:57,3rd year,Normal,55,Male,21,Hall-Mess,Single,No,2,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,6.5
+12/26/2020 19:47:06,3rd year,Normal,60,Male,21.25,Home,Single,No,1,Good,No,No,Yes,Not applicable,Yes,Maybe,Yes,No,No,7
+12/26/2020 19:48:34,3rd year,Bad,40,Male,21.25,Home,Single,No,2,Good,No,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 19:49:59,3rd year,Bad,40,Male,21.25,Home,Single,No,1,Normal,No,No,Yes,No one,Yes,Yes,Neutral,No,Yes,7
+12/26/2020 19:56:24,3rd year,Normal,60,Male,21.5,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:02:45,3rd year,Bad,40,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,No,Neutral,No,No,6
+12/26/2020 20:05:03,3rd year,Good,65,Male,21.5,Hall-Mess,Single,No,1,Good,Yes,No,No,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:09:48,3rd year,Good,65,Male,21.5,Department,Single,No,1,Good,Yes,No,Yes,No one,Yes,Maybe,Yes,No,Yes,6
+12/26/2020 20:12:06,3rd year,Bad,15,Male,21.5,Hall-Mess,Single,No,1,Normal,No,No,Yes,Friends,Yes,Yes,No,Yes,No,3
+12/26/2020 20:13:25,3rd year,Bad,30,Male,21.75,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,No,Yes,No,5
+12/26/2020 20:18:09,3rd year,Very bad,10,Male,21.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+12/26/2020 20:19:49,3rd year,Bad,35,Male,21.5,Home,Single,No,1,Normal,No,No,No,No one,Yes,Maybe,Neutral,Yes,Yes,5.5
+12/26/2020 20:20:53,3rd year,Normal,65,Male,21.75,Department,Single,No,2,Normal,Yes,No,Yes,Friends,No,Yes,Neutral,No,Yes,6.5
+12/26/2020 20:22:49,3rd year,Normal,55,Male,21.75,Hall-Mess,Single,No,2,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,6.5
+12/26/2020 20:24:12,1st year,Good,70,Male,19.75,Playground,Single,Yes,1,Normal,Not applicable,Not applicable,No,No one,No,Maybe,Neutral,No,Yes,6
+12/26/2020 20:25:34,3rd year,Very good,85,Male,22,Home,Single,No,2,Normal,Not applicable,No,Yes,Friends,Yes,Yes,Yes,No,No,5.5
+12/26/2020 20:27:17,3rd year,Good,70,Male,22,Hall-Mess,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6.5
+12/26/2020 20:28:32,3rd year,Normal,55,Male,22.25,Department,Single,Yes,1,Good,Yes,No,Yes,Friends,No,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:33:21,3rd year,Normal,50,Male,22.25,tuition,Single,Yes,2,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,7
+12/26/2020 20:34:54,3rd year,Good,75,Male,22.25,tuition,Single,Yes,2,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,Yes,6.5
+12/26/2020 20:36:13,3rd year,Bad,35,Male,22.5,tuition,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,Yes,Yes,No,6
+12/26/2020 20:37:21,3rd year,Normal,50,Male,22.5,Department,Single,Yes,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Neutral,No,Yes,6
+12/26/2020 20:39:10,3rd year,Good,60,Male,22.5,outside,Single,Yes,1,Normal,No,No,Yes,Friends,No,Yes,Yes,Yes,No,5
+12/26/2020 20:40:28,3rd year,Good,65,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,5
+12/26/2020 20:42:12,3rd year,Bad,30,Male,22.5,Home,Single,Yes,2,Normal,No,No,Not applicable,Family,Not applicable,Yes,Neutral,Yes,No,6.5
+12/26/2020 20:43:53,3rd year,Very bad,5,Male,22.25,Home,Single,Yes,2,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,6
+12/26/2020 20:45:18,3rd year,Bad,40,Male,22.25,Hall-Mess,Single,No,1,Good,Yes,No,Yes,No one,Yes,Yes,Yes,No,No,6
+12/26/2020 20:46:39,3rd year,Bad,30,Male,22.25,Department,Single,No,1,Good,Yes,No,Not applicable,No one,Yes,Yes,Neutral,No,Yes,6
+12/26/2020 20:51:13,3rd year,Normal,55,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,Friends,Yes,Maybe,Yes,No,Yes,6.5
+12/26/2020 20:53:00,3rd year,Good,70,Male,22.25,tuition,Single,No,1,Normal,Yes,No,Yes,No one,Not applicable,Maybe,Neutral,No,No,6
+12/26/2020 20:54:47,3rd year,Bad,35,Male,22.5,Department,Single,No,1,Normal,Yes,No,Yes,No one,Yes,Yes,Neutral,No,No,6
+12/26/2020 20:56:18,3rd year,Bad,45,Male,22.5,Hall-Mess,Single,No,1,Normal,Yes,No,Yes,No one,No,Maybe,Neutral,No,No,6
+12/26/2020 20:57:40,1st year,Good,75,Male,19.75,Home,Single,Yes,1,Normal,No,No,Yes,Family,Yes,Not applicable,Yes,No,No,7
+12/26/2020 20:58:55,1st year,Very good,85,Male,19.25,Home,Single,No,1,Good,No,Not applicable,Yes,Family,Yes,Not applicable,Yes,No,No,8
