@@ -5,6 +5,6 @@ The motivation behind this project was to study the age at which most suicides o
 This project will also analyse whether people are more likely to commit suicide as they grow older, if most suicides are committed at a certain age or there is no positive correlation between age and the number of suicides committed.
 
 The dataset used in this project has been taken from Kaggle from the user Szamil 
- and the link to the Dataset is https://www.kaggle.com/dornani/widandsuicide.
+and the link to the Dataset is https://www.kaggle.com/szamil/who-suicide-statistics.
 
 The data belongs to World Health Orginazation.
