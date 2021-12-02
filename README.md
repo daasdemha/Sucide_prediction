@@ -57,6 +57,6 @@ Random Forest  with hyperparameters 1 min_samples_leaf ,2  min_samples_split ,  
 
 The code can be found in the Sucide_Prediction.ipynb file it is commented fully and all functions have proper docstrings for use and undestanding. 
 
-A demonstration video running and exapling the code can also be found in Project_videio.mp4 file.
+A demonstration video running and exapling the code can also be found in Project_video.mp4 file.
 
 The data used is found in suicidedataextrafestures.csv file.
